@@ -1,6 +1,6 @@
 import streamlit as st
-from dependencies import load_dotenv, configure_genai
-from utils import get_vectorstore_from_urls, get_context_retriever_chain, get_conversational_rag_chain, get_response
+from src.dependencies import load_dotenv, configure_genai
+from src.utils import get_vectorstore_from_urls, get_context_retriever_chain, get_conversational_rag_chain, get_response
 
 load_dotenv()
 configure_genai()
