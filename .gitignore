@@ -1,6 +1,7 @@
 # Virtual environment
 venv/
 env/
+my-venv/
 
 # Chroma vector store
 faiss_index/
@@ -13,3 +14,4 @@ __pycache__/
 # Other
 .DS_Store
 *.log
+.env

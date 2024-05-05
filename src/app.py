@@ -1,9 +1,12 @@
+from config import GOOGLE_API_KEY, GROQ_API_KEY
 import streamlit as st
-from src.dependencies import load_dotenv, configure_genai
-from src.utils import get_vectorstore_from_urls, get_context_retriever_chain, get_conversational_rag_chain, get_response
+import google.generativeai as genai
+from utils import AIMessage, HumanMessage
+from vectorstore import get_vectorstore_from_urls
+from response import get_response
 
-load_dotenv()
-configure_genai()
+# Configure Google Generative AI
+genai.configure(api_key=GOOGLE_API_KEY)
 
 # App config
 st.set_page_config(page_title="CognitiveWeb", page_icon="🕸️", layout="wide")

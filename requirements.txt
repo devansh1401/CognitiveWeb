@@ -1,8 +1,38 @@
-streamlit
-langchain
-langchain-community
-langchain-google-genai
-langchain-groq
-python-dotenv
-google-generativeai
-groq
+streamlit==1.33.0
+langchain-core==0.1.42
+langchain-community==0.0.32
+langchain==0.1.15
+langchain-google-genai==1.0.2
+langchain-groq==0.1.2
+google-ai-generativelanguage==0.6.1
+google-api-core==2.18.0
+google-api-python-client==2.125.0
+google-auth==2.29.0
+google-auth-httplib2==0.2.0
+google-generativeai==0.5.0
+googleapis-common-protos==1.63.0
+groq==0.5.0
+python-dotenv==1.0.1
+beautifulsoup4==4.12.3
+chromadb==0.4.24
+
+# streamlit==1.33.0
+# langchain-core==0.1.42
+# langchain-community==0.0.32
+# langchain==0.1.15
+# langchain-google-genai==1.0.2
+# langchain-groq==0.1.2
+# langchain-openai==0.1.2
+# langchain-text-splitters==0.0.1
+# google-ai-generativelanguage==0.6.1
+# google-api-core==2.18.0
+# google-api-python-client==2.125.0
+# google-auth==2.29.0
+# google-auth-httplib2==0.2.0
+# google-generativeai==0.5.0
+# googleapis-common-protos==1.63.0
+# groq==0.5.0
+# python-dotenv==1.0.1
+# beautifulsoup4==4.12.3
+# chromadb==0.4.24
+# python-dotenv==1.0.1
