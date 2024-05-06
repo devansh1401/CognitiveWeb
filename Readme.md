@@ -85,7 +85,8 @@ CognitiveWeb leverages the power of Retrieval-Augmented Generation (RAG) to fetc
 
 Watch the demonstration video to see CognitiveWeb in action:
 
-[![CognitiveWeb Demonstration](resources/video_thumbnail.png)](https://youtu.be/a_vuUufkCy4?si=EvX9I9eoUBDnf3df)
+[![CognitiveWeb Demonstration](resources/video_thumbnail.png)](resources/video.mp4)
+
 
 ## Contributing
 
