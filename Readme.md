@@ -1,4 +1,5 @@
-# CognitiveWeb: Intelligent Chatbot for Dynamic Web Content Analysis
+#  CognitiveWeb 🤖
+##    Intelligent Chatbot for Dynamic Web Content Analysis 
 
 CognitiveWeb is a powerful and innovative AI-powered chatbot that revolutionizes the way we interact with web content. Combining cutting-edge technologies such as Grok AI, LangChain, Google Generative AI, and Streamlit, CognitiveWeb provides a seamless and intuitive experience for users to explore and analyze web content in real-time.
 
@@ -10,8 +11,6 @@ CognitiveWeb is a powerful and innovative AI-powered chatbot that revolutionizes
 - [How It Works](#how-it-works)
 - [Demonstration Video](#demonstration-video)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -29,12 +28,12 @@ This project aims to create an intelligent chatbot capable of understanding and 
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/devansh1401/CognitiveWeb.git
+   https://github.com/devansh1401/CognitiveWeb.git
     ```
 
 2. **Navigate to the Project Directory:**
     ```bash
-    cd CognitiveWeb
+    cd cognitivewebchatbot
     ```
 
 3. **Create a Virtual Environment and Activate it:**
@@ -55,6 +54,9 @@ This project aims to create an intelligent chatbot capable of understanding and 
         GOOGLE_API_KEY=your_google_api_key
         GROQ_API_KEY=your_groq_api_key
         ```
+
+    You can get your Grok API key [here](https://wow.groq.com/).
+    For Gemini API key, refer to [this YouTube video](https://youtu.be/a_vuUufkCy4?si=EvX9I9eoUBDnf3df).
 
 ## Usage
 
@@ -85,19 +87,11 @@ CognitiveWeb leverages the power of Retrieval-Augmented Generation (RAG) to fetc
 
 Watch the demonstration video to see CognitiveWeb in action:
 
-[![CognitiveWeb Demonstration](resources/video_thumbnail.png)](resources/video.mp4)
+[![CognitiveWeb Demonstration](resources/video_thumbnail.png)](https://www.linkedin.com/feed/update/urn:li:activity:7184972097595535361/)
 
 
 ## Contributing
 
 Contributions to CognitiveWeb are welcome! If you encounter any issues or have ideas for improvements, please open an issue or submit a pull request. Ensure to follow the project's coding standards and guidelines.
 
-## License
 
-This project is licensed under the MIT License.
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to reach out to the project maintainers:
-
-- Devansh
